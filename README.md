@@ -1,6 +1,6 @@
 ## Begins with the first step
 
-This is a course syllabus of sorts for people who want to learn how to code but are not able to find a sort of pathway to follow. 
+This is a course syllabus of sorts for people who want to learn how to code but are not able to find a sort of pathway to follow.
 
 I've written a post on why I'm doing this. Read it [here](https://medium.com/@tiffaniechia/learning-how-to-code-knowledge-and-direction-f4d79c4dd1b2#.522ihewvc).
 
@@ -8,7 +8,7 @@ Now focusing on the how. I've thought quite hard how to go about this seeing tha
 
 Which is why I've broken 'the course' down into bi-weekly learning subjects, starting from the foundation and then working our way up. The first couple of weeks will be very arduous syntax type stuff - stick to it, trust the process. It will feel like hitting a wall, but once you scale the wall the rest will be a smoother climb. The proceeding weeks will be project-based learning, where we will be building actual applications with each focusing on a main learning area. Yes! You'll be building real stuff with the building blocks you've learnt! There is nothing like practice to learn faster :)
 
-Part of learning is receiving good feedback, with that in mind I will be reviewing your code (& get fellow senior techies to help) and nudge you into the right direction.
+Part of learning is receiving good feedback, with that in mind I will be reviewing your code (& get fellow senior techies to help) and nudge you into the right direction. (Caveat: This is currently available to the people I've started sending 'the course' to, I'm figuring out a way to scale this.)
 
 The entire thing will be mostly Javascript focused. Javascript can be used for both front-end and back-end development, making it a very good language to be proficient in. There is also a saying in the world of programming, which is known as the Atwood's Law - any application that can be written a Javascript, will eventually be written in Javascript. So yeah, pretty good skill to have ;)
 
@@ -33,3 +33,6 @@ Do reach out if you think there is anything better I can do to help you learn. L
 8. [Node](node.md)
 9. [Node + Express](node-express.md)
 10. [Node + Express + MongoDB](node-express-mongodb.md)
+
+
+#### If you would like to contribute to the syllabus or be a fellow code mentor, do send pull requests or drop me an email!
