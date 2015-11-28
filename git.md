@@ -17,15 +17,14 @@ GitHub's mascot is an animal known as an Octocat, half octopus, half cat, and th
 
 
 #### Your objective for this section:
-* To run Git in your local machine you will need to download XCode command-line tools. When prompted to, just say yes.
 
 - [ ] Go through the exercises on [Try Git](https://try.github.io/levels/1/challenges/1). Make time to go through the 'repository' and understand the console output and what which command does.
+- [ ] * Git will not be preinstalled in your systems, to complete the exercises you will need to [follow the instructions here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - [ ] When you're feeling more comfortable with Git, let's delve deeper into it with [Git Immersion](http://gitimmersion.com/). This uses a bit of Ruby - but nothing too complex.
 - [ ] [Create a GitHub account](https://github.com/).
 - [ ] Complete Test:
   - [ ] Create your first repository ('my-first-repository')
   - [ ] With your new found command line skills, create a file on your desktop, within this file, create a README.md file (markdown file), initialize it, add remote origin pointing to your first GitHub repository, write into your README.md ('hello world!') using your command line, git add your file, git commit your file with the message (my first git commit message!), and push it to GitHub.
-
 
 #### Hint for test:  
 ```bash
