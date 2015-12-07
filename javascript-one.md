@@ -57,7 +57,7 @@ There are merits to struggling and figuring something out yourself - but if give
 
 - [ ] [ Follow along with Mozilla's introduction to Javascript. ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) It is a good read, but it would be even better if you can work along with it*
     - [ ] *Download [Chrome](https://support.google.com/chrome/answer/95346?hl=en-GB&ref_topic=14660) & Use [Chrome dev tools](https://developer.chrome.com/devtools) to do it!
-      - When you open Chrome, hit Cmd + alt + J (or if that doesn't work, right click on the screen -> select 'inspect element' -> select 'Console') to bring up the Chrome Dev Tools console! Try:
+       When you open Chrome, hit Cmd + alt + J (or if that doesn't work, right click on the screen -> select 'inspect element' -> select 'Console') to bring up the Chrome Dev Tools console! Try:
         - alert('omg I'm typing o n the console!')
         - alert(1+1)
         -  Try doing what you learnt on Code Academy here!

@@ -1,6 +1,6 @@
 ## Begins with the first step
 
-This is a course syllabus of sorts for people who want to learn how to code but are not able to find a sort of pathway to follow. But more specifically, for those who aren't able to find the time or money to go for bootcamps, and other academia type options.
+This is a course syllabus of sorts for people who want to learn how to code but are not able to find a sort of pathway to follow. But more specifically, for those who aren't able to find the time or money to go for bootcamps, and other academia type options. That being said, this is no substitute for coding bootcamps!
 
 I've written a post on why I'm doing this. Read it [here](https://medium.com/@tiffaniechia/learning-how-to-code-knowledge-and-direction-f4d79c4dd1b2#.522ihewvc).
 

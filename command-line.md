@@ -11,7 +11,9 @@ The command line is the entry point to all the inner workings of your computer, 
 #### Your objective for this section:
 
 - [ ]  Complete ['Learn enough command line to be dangerous'](http://www.learnenough.com/command-line-tutorial) by Michael Hartl. Do Work through all the exercises. If you are using a MacBook, you can skip Box 2 in section 1 of the tutorial.
-- [ ] Complete test:
+
+
+#### Test:  
   - [ ] Know the difference between ~ and / (Google it :D)
   - [ ] Understand the importance/danger of sudo.
   - [ ] Using only your command line: Create a txt file named 'hello.txt' on /tmp, write into it 'omg I am writing into the file via the command line!', close it then cat the file, create a directory on your user home desktop path named 'foo', move hello.txt into ~/Desktop/foo, rename hello.txt to helloagain.txt, and chmod removing all write permissions to the file (you will find yourself unable to write into it now, now you just created permissions controls for your file!).
