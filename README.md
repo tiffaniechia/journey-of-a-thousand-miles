@@ -1,6 +1,6 @@
 ## Begins with the first step
 
-This is a course syllabus of sorts for people who want to learn how to code but are not able to find a sort of pathway to follow.
+This is a course syllabus of sorts for people who want to learn how to code but are not able to find a sort of pathway to follow. But more specifically, for those who aren't able to find the time or money to go for bootcamps, and other academia type options.
 
 I've written a post on why I'm doing this. Read it [here](https://medium.com/@tiffaniechia/learning-how-to-code-knowledge-and-direction-f4d79c4dd1b2#.522ihewvc).
 
@@ -25,8 +25,8 @@ Do reach out if you think there is anything better I can do to help you learn. L
 
 1. [Command-line](command-line.md)
 2. [Git](git.md)
-3. [Javascript](javascript.md)
-4. [How to solve problems](how-to-solve-problems.md)
+3. [Javascript I](javascript-one.md)
+4. [Javascript II](javascript-two.md)
 5. [Object Oriented Programming](object-oriented-programming.md)
 6. [TDD](tdd.md)
 7. [HTML/CSS](html-css.md)
@@ -35,4 +35,4 @@ Do reach out if you think there is anything better I can do to help you learn. L
 10. [Node + Express + MongoDB](node-express-mongodb.md)
 
 
-#### If you would like to contribute to the syllabus or be a fellow code mentor, do send pull requests or drop me an email!
+#### If you would like to contribute do send pull requests or drop me an email!
