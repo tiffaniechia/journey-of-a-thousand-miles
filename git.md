@@ -27,6 +27,9 @@ GitHub's mascot is an animal known as an Octocat, half octopus, half cat, and th
   - [ ] Create your first repository ('my-first-repository')
   - [ ] With your new found command line skills, create a file on your desktop, within this file, create a README.md file (markdown file), initialize it, add remote origin pointing to your first GitHub repository, write into your README.md ('hello world!') using your command line, git add your file, git commit your file with the message (my first git commit message!), and push it to GitHub.
 
+#### For Giggles:
+  You might enjoy this site, [Commit Logs From Last Night](http://www.commitlogsfromlastnight.com/), which basically pulls all the ridiculous git commit messages on GitHub into one beautiful place.
+
 #### Hint for test:  
 ```bash
 $ cd ~/Desktop
