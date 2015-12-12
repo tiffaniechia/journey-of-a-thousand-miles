@@ -21,7 +21,8 @@ GitHub's mascot is an animal known as an Octocat, half octopus, half cat, and th
 - [ ] Go through the exercises on [Try Git](https://try.github.io/levels/1/challenges/1). Make time to go through the 'repository' and understand the console output and what which command does.
 - [ ] * Git will not be preinstalled in your systems, to complete the exercises you will need to [follow the instructions here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - [ ] When you're feeling more comfortable with Git, let's delve deeper into it with [Git Immersion](http://gitimmersion.com/). This uses a bit of Ruby - but nothing too complex.
-- [ ] [Create a GitHub account](https://github.com/).
+- [ ] [Create a GitHub account](https://github.com/).*
+  - *for steps to generate ssh keys click [here](https://help.github.com/articles/generating-ssh-keys/)
 
 #### Test:  
   - [ ] Create your first repository ('my-first-repository')
