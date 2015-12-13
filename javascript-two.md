@@ -64,7 +64,7 @@ play(15) #will output fizzbuzz
 Write the program and commit it to GitHub under a new repository named GitHub!
 
 ### For giggles:
-- [ ][Learn Javascript with Javascript for cats, a fun non-indepth way of going through javascript.](http://jsforcats.com/)
+- [ ] [Learn Javascript with Javascript for cats, a fun non-indepth way of going through javascript.](http://jsforcats.com/)
 
 #### If you would like extra practice:
 Peer into available functions for different data types:
