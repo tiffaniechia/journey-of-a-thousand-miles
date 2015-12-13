@@ -49,7 +49,7 @@ Along with Google is your other greatest resource - [stackoverflow](http://stack
 There are merits to struggling and figuring something out yourself - but if give it 20 minutes or so, Google it, Stackoverflow it, go for a cup of tea, if it still doesn't click - I'll be here to answer questions.
 
 #### Your objective for this section:
-- [ ] [Work through this first segment of Code Academy - Javascript.](https://www.codecademy.com/courses/getting-started-v2/0/1?curriculum_id=506324b3a7dffd00020bf661) This is a good way to go through conditionals and some Javascript types
+- [ ] [Work through this segment, 'Getting started with programming', of Code Academy - Javascript.](https://www.codecademy.com/courses/getting-started-v2/0/1?curriculum_id=506324b3a7dffd00020bf661) This is a good way to go through conditionals and some Javascript types
 - [ ] [Practice your first building blocks by creating an adventure game with Code Academy](https://www.codecademy.com/courses/javascript-beginner-en-x9DnD/0/1?curriculum_id=506324b3a7dffd00020bf661)
   - These bits of Code Academy are free, there are a few segments that are reserved for 'Pro' users at USD19.99/month. If you are keen on signing up go ahead, but it is not necessary - the free segments have proven quite sufficient for what we are trying to achieve. There are so many good learning sites out there with monthly subscription fees, if we were to sign up to all of them, it would definitely add up to quite a significant sum of money! Even at USD19.99/month, it adds up to a little under USD240/year which can be too steep for some - which is exactly what we are trying to avoid, this is was created with the aim of open accessibility to knowledge.
 
@@ -61,3 +61,5 @@ There are merits to struggling and figuring something out yourself - but if give
         - alert('omg I'm typing o n the console!')
         - alert(1+1)
         -  Try doing what you learnt on Code Academy here!
+- [ ] [Explore Data Types even further with w3schools](http://www.w3schools.com/js/js_datatypes.asp)
+- [ ] [Explore arithmetic possibilities](http://www.w3schools.com/js/js_arithmetic.asp)       

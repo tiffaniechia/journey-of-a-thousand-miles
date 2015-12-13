@@ -27,12 +27,14 @@ Do reach out if you think there is anything better I can do to help you learn. L
 2. [Git](git.md)
 3. [Javascript I](javascript-one.md)
 4. [Javascript II](javascript-two.md)
-5. [Object Oriented Programming](object-oriented-programming.md)
-6. [TDD](tdd.md)
-7. [HTML/CSS](html-css.md)
-8. [Node](node.md)
-9. [Node + Express](node-express.md)
-10. [Node + Express + MongoDB](node-express-mongodb.md)
+5. [TDD](tdd.md)
+6. [Javascript IV](javascript-four.md)
+7. [Javascript III](javascript-three.md)
+8. [Object Oriented Programming](object-oriented-programming.md)
+9. [HTML/CSS](html-css.md)
+10. [Node](node.md)
+11. [Node + Express](node-express.md)
+12. [Node + Express + MongoDB](node-express-mongodb.md)
 
 
 #### If you would like to contribute do send pull requests or drop me an email!
