@@ -46,6 +46,7 @@ Functions let you hold your little program and use it only when you need it. Rem
 ### Your objective for this section:
 - [ ][Go through Code Academy Functions section](https://www.codecademy.com/courses/javascript-beginner-en-6LzGd/0/1?curriculum_id=506324b3a7dffd00020bf661)
 - [ ][Build rock paper scissors with your new found knowledge!](https://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1?curriculum_id=506324b3a7dffd00020bf661)
+- [ ] Make sure you understand the concept of global and local scopes!
 
 #### Test:
 Now that you know variables, conditions, and functions, let's attempt to write the [fizzbuzz game](https://en.wikipedia.org/wiki/Fizz_buzz)!
