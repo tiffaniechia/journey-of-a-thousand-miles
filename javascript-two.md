@@ -49,6 +49,8 @@ Functions let you hold your little program and use it only when you need it. Rem
 - [ ] Make sure you understand the concept of global and local scopes!
 
 #### Test:
+Before we embark on your test, [click here and let's get you set up with a source code editor, along with Node, and npm](source-code-editor.md).
+
 Now that you know variables, conditions, and functions, let's attempt to write the [fizzbuzz game](https://en.wikipedia.org/wiki/Fizz_buzz)!
 Fizz Buzz is a counting game where all multiples of 3 is fizz, all multiples of 5 is buzz, all multiples of 3 and 5 is fizzbuzz. SO it will go like this: 1, 2, fizz, 4, buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuzz.
 

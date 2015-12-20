@@ -36,5 +36,8 @@ Do reach out if you think there is anything better I can do to help you learn. L
 11. [Node + Express](node-express.md)
 12. [Node + Express + MongoDB](node-express-mongodb.md)
 
+### Sides:
+1. [Installation & Configuration: Source Code Editor + Node + NPM](source-code-editor.md)
+
 
 #### If you would like to contribute do send pull requests or drop me an email!
