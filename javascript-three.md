@@ -93,7 +93,7 @@ so following our previous haystack example I'm pretty sure you can figure out ho
 var words = ['hello', 'world', 'this', 'is', 'great'];
 
 function smash (words) {
-# your test, finish this function so that it will return the exepected sentence
+// your test, finish this function so that it will return the exepected sentence
 }
 
 smash(words); // it should return "hello world this is great"
