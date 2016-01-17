@@ -89,7 +89,7 @@ so following our previous haystack example I'm pretty sure you can figure out ho
 'Adapted from Code Wars - 8kyu stage written by richardhsu':
 ##### Write a method smash that takes the given array of words and smashes them together into a sentence and returns the sentence. You can ignore any need to sanitize words or add punctuation, but you should add spaces between each word. Be careful, there shouldn't be a space at the beginning or the end of the sentence!
 
-``` javascript
+```javascript
 var words = ['hello', 'world', 'this', 'is', 'great'];
 
 function smash (words) {
@@ -100,7 +100,7 @@ smash(words); // it should return "hello world this is great"
 console.log(smash(words)); // If you are using the console on your Sublime editor build system to show your output.
 ```
 
-Using your editor make sure you have saved your work (smash.js), changed the bottom right setting to javascript for correct syntax highlighting, and pointed the editor at Node. Hit command-B to build (show your console log):
+Using your editor make sure you have saved your work (smash.js), changed the bottom right setting to javascript for correct syntax highlighting, and pointed the editor at Node. Hit command-B or ctrl-b (if on windows) to build (show your console log):
 
 *Make sure you have followed the instructions to setting up your source code editor with Node [here](source-code-editor.md)
 
@@ -115,7 +115,7 @@ Using your previous knowledge of git, cd into the file using your terminal and g
 
 #### Hint for test (while not the cleanest, its one of simpler the ways!):
 
-``` javascript
+```javascript
 var words = ['hello', 'world', 'this', 'is', 'great'];
 
 function smash (words) {
