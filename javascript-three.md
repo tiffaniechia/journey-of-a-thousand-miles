@@ -20,14 +20,14 @@ for ( var i = 0; i<=4; i++ ) {
 
 // the loop has the same effect as calling it 5 times. (0,1,2,3,4 = 5 times)
 // variable 'i' is simply a counter that says, declare it as 0 (var i = 0),
-// increment by 1 variable i (i++) everytime the loop runs,
+// increment by 1 variable i (i++) every time the loop runs,
 // and while variable i is less than or equals to 5 (i<=5), execute whatever is inside the loop.
 
 
 // so variable i = 0 is less than 5, will execute it once,
-// var i = 1 is still less than 5 so it will execute it again,
-// var i = 5 is still fulfills <=5 so it will execute again
-// var i = 6  does not fulfill the requirement so the loop exits
+// var i = 1 is less than 5 so it will execute it again,
+// var i = 5 still fulfills <=5 so it will execute again
+// var i = 6 does not fulfill the requirement so the loop exits
 ```
 
 You can imagine how many times you can execute a function this way! Just by tweak the numbers you can make the computer say you're beautiful all day long!
@@ -54,7 +54,7 @@ while (donutCounter <= 12) {
 I imagine you have grasped the concept of counting loops. Loops can also help you to search for things. Like searching for a needle in the haystack. So for example:
 
 ```javascript
-while (item != 'neeedle') {
+while (item != 'needle') {
     keepSearchingTheHayStack();
 }
 ```
@@ -71,7 +71,7 @@ groceryListArray[1] //will return 'chocolate'
 groceryListArray[2] //will return 'rainbows'
 groceryListArray[3] //will return 'cookies'
 
-// note that arrays always start at 0!
+// Note that arrays always start at 0!
 // Arrays are always encapsulated by square brackets
 ```
 
@@ -87,21 +87,31 @@ so following our previous haystack example I'm pretty sure you can figure out ho
 #### Test:
 
 'Adapted from Code Wars - 8kyu stage written by richardhsu':
-###### Write a method smash that takes the given array of words and smashes them together into a sentence and returns the sentence. You can ignore any need to sanitize words or add punctuation, but you should add spaces between each word. Be careful, there shouldn't be a space at the beginning or the end of the sentence!
+##### Write a method smash that takes the given array of words and smashes them together into a sentence and returns the sentence. You can ignore any need to sanitize words or add punctuation, but you should add spaces between each word. Be careful, there shouldn't be a space at the beginning or the end of the sentence!
 
 ``` javascript
 var words = ['hello', 'world', 'this', 'is', 'great'];
 
 function smash (words) {
-// your test, finish this function so that it will return the exepected sentence
+// your test, finish this function so that it will return the expected sentence
 }
 
 smash(words); // it should return "hello world this is great"
+console.log(smash(words)); // If you are using the console on your Sublime editor build system to show your output.
 ```
+
+Using your editor make sure you have saved your work (smash.js), changed the bottom right setting to javascript for correct syntax highlighting, and pointed the editor at Node. Hit command-B to build (show your console log):
+
+*Make sure you have followed the instructions to setting up your source code editor with Node [here](source-code-editor.md)
+
+![screenshot](/images/smash.png)
+
+Using your previous knowledge of git, cd into the file using your terminal and git add, git commit, and git push it to your github account!
+
 
 #### If you would like extra practice or extra reading:
 - [ ] [Mozilla 'For Loops' Docs](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/for)
-- [ ] [Mozille 'While Loops' docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+- [ ] [Mozilla 'While Loops' docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 
 #### Hint for test (while not the cleanest, its one of simpler the ways!):   
 
@@ -118,6 +128,8 @@ function smash (words) {
    }
    return sentence;
 };
+
+console.log(smash(words));
 ```
 
 #### But If you read the Arrays methods you'll realize that you can solve it this way:
@@ -128,4 +140,6 @@ var words = ['hello', 'world', 'this', 'is', 'great'];
 function smash (words) {
   return words.join(" ");
 };
+
+console.log(smash(words));
 ```
