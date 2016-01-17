@@ -5,7 +5,7 @@ This is a pathway for anyone who wants to learn how to code. The end goal is to 
 
 The internet hosts a great number of fantastic individual tutorials. However, there is no pathway for beginners to follow. This project serves to organize these information in a manner that is beneficial to beginners.
 
-This project is still in progress, and believes in constant growth. If you believe anything can be made better (be it the pathway, the content, or more resources), or you would like to author more tutorials, please submit a pull request.
+This project is still in progress, and believes in constant growth. If you believe anything can be made better (be it the pathway, the content, or more resources), or you would like to author more tutorials, just submit a pull request.
 
 #### Rough Course Guide:
 
@@ -15,9 +15,9 @@ This project is still in progress, and believes in constant growth. If you belie
 4. [Javascript II - Functions](javascript-two.md)
 5. [Javascript III - If/Else, Switches, and Logic Operators](javascript-three.md)
 6. [Javascript IV -  For loops & While loops, and Arrays](javascript-four.md)
-7. [Javascript V](javascript-five.md)
-8. [TDD](tdd.md)
-9. [Object Oriented Programming](object-oriented-programming.md)
+7. [Javascript V - Data structures & Objects](javascript-five.md)
+8. [Object Oriented Programming](object-oriented-programming.md)
+9. [TDD](tdd.md)
 10. [HTML/CSS](html-css.md)
 11. [Node](node.md)
 12. [Node + Express](node-express.md)
