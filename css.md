@@ -1,4 +1,4 @@
-//bem
+// BEM and other best practices
 // responsive/media queries
 // cross browser
-// test build a responsive css site
+// test: style profile page from the html tutorial. Import fonts, add media queries
