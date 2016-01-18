@@ -26,7 +26,6 @@ This project is still in progress, and believes in constant growth. If you belie
 15. [Node + Express](node-express.md)
 16. [Node + Express + MongoDB](node-express-mongodb.md)
 
-
 ### Sides:
 1. [Installation & Configuration: Source Code Editor + Node + NPM](source-code-editor.md)
 2. [Extra APIs](extra-apis.md)
